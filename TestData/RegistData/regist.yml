@@ -1,0 +1,15 @@
+-
+  - method: register_null
+    data:
+       tel:
+       yzm:
+       pw:
+  - title: 元素为空
+
+-
+  - method: register_null
+    data:
+       tel: 139200
+       yzm:
+       pw:
+  - title: 手机号错误
